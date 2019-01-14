@@ -1,0 +1,9 @@
+# Python's Cache
+__pycache__
+
+# Visual Studio Code settings
+.vscode
+
+# Unfinished spiders
+idntimes.py
+tirto.py
