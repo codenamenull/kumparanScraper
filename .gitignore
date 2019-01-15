@@ -4,6 +4,10 @@ __pycache__
 # Visual Studio Code settings
 .vscode
 
+# Json results
+newsJson
+
 # Unfinished spiders
 idntimes.py
 tirto.py
+
